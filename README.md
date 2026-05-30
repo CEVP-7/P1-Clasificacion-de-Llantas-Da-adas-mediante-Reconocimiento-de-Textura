@@ -35,5 +35,5 @@ Al evaluar en el conjunto de prueba (Test Set), se obtuvieron los siguientes res
 | **Xception (Transfer Learning)** | 76% | **0.78** | 0.50 |
 | **CNN Personalizada** | 67% | 0.68 | 0.60 |
 
-## 👨‍💻 Autor
-* **Carlos Enrique Villanueva Portal** - *Universidad Nacional de Ingeniería (UNI)*
+## 👨‍💻 Autores
+* **Carlos Enrique Villanueva Portal, Kelvin Alexander Aquino Ynga y Junior Alexander Ponte Paz** - *Universidad Nacional de Ingeniería (UNI)*
